@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-collocations", "title": "Collocation Trainer", "exam": "TOEFL", "area": "TOEFL Reading and Listening", "desc": "Learn which words go together, such as make a decision and heavy rain, with quick quizzes.", "content": ["collocations.json"], "n": 56};
